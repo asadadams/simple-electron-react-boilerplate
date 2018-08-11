@@ -1,4 +1,4 @@
-![Shorty](https://github.com/asadadams/shorty/blob/master/logo.png)
+![Shorty](https://github.com/asadadams/simple-electron-react-boilerplate/blob/master/logo.png)
 
 # Simple Electron + React Boilerplate
 I made this boilerplate because i found it very diffcult to setup an Electron project with React when i first wanted to this. I also didn't like the way most boilerplates were set up. This is a really simple and minimal Electron + React boilerplate to get you started with a project. This project use a Webpack as a module bundler to React ES2015 to vanilla JS. ENJOY CODING!!!
