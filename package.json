@@ -1,0 +1,39 @@
+{
+  "name": "ElectronReactBoilerplate",
+  "productName": "Electron React Boilerplate",
+  "version": "0.0.1",
+  "description": "This is a boilerplate by Asad",
+  "main": "main.js",
+  "scripts": {
+    "dev": "webpack --watch",
+    "start": "electron ."
+  },
+  "repository": "https://github.com/asadadams",
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "electron-reload": "^1.2.2",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-plugin-import": "^1.6.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.9",
+    "electron": "^1.4.1",
+    "react-scripts": "1.1.0",
+    "style-loader": "^0.20.2",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "babel": "^6.5.2",
+    "electron-reload": "^1.2.2",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0"
+  }
+}
