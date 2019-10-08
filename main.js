@@ -17,6 +17,9 @@ function createWindow () {
 	 // Initialize the window to our specified dimensions
 	 
   win = new BrowserWindow({
+	  webPreferences: {
+         nodeIntegration: true
+      },
 	width: 1200, 
 	  height: 620,
 	  minWidth: 1200,
