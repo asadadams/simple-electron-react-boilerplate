@@ -12,11 +12,14 @@ All components are located in src folder.
       ```
             git clone --depth=1 https://github.com/asadadams/simple-electron-react-boilerplate
       ```
+  * Copy the contents of node_modules into a different directory
   * Install packages
       ```
         npm install    
       ```
   **Make sure all packages are installed**
+  
+  * Copy back the previous node_modules folders back and replace them 
       
 ## Usage
 To start development 
