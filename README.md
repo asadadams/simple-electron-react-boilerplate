@@ -10,16 +10,13 @@ All components are located in src folder.
   * Make sure you have node installed 
   * Clone or download repository
       ```
-            git clone --depth=1 https://github.com/asadadams/simple-electron-react-boilerplate
+            git clone https://github.com/asadadams/simple-electron-react-boilerplate.git
       ```
   * Copy the contents of node_modules into a different directory
   * Install packages
       ```
         npm install    
       ```
-  **Make sure all packages are installed**
-  
-  * Copy back the previous node_modules folders back and replace them 
       
 ## Usage
 To start development 
@@ -36,7 +33,7 @@ To start development
 
 ## Developers
 If you are a developer feel free to contribute to the project by providing bug fixes, new ideas and suggestions.  
-*NB: This was also written out of boredom and i needed a boilerplate to start with whenever i'm starting a new project, :stuck_out_tongue_winking_eye: .*
+*NB: This was also written out of boredom and i needed a boilerplate to start with whenever i'm starting a new project.*
 
 ## Me
 Want to say hi? Will be happy to hear from you
