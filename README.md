@@ -28,7 +28,7 @@ To start development
 
 * Start project
       ```
-            npm start
+            npm run start
       ``` 
 
 ## Developers
