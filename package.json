@@ -23,7 +23,12 @@
     "electron": "^1.8.8",
     "react-scripts": "1.1.0",
     "style-loader": "^0.20.2",
-    "webpack": "^1.13.3"
+    "webpack": "^1.13.3",
+    "babel-polyfill": "6.26.0",
+    "history": "3.0.0",
+    "react-router": "3.2.1",
+    "@version/react-router-v3": "1.0.0",
+    "warning": "3.0.0"
   },
   "dependencies": {
     "@version/react-router-v3": "^1.0.0",
