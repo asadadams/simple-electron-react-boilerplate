@@ -5,7 +5,7 @@
 # Simple Electron + React Boilerplate
 <img src="./logo.png" />
 <br/><br/>
-<div align="center">
+<div>
   <a href="https://facebook.github.io/react/"><img src="./repo/img/react-padded-90.png" /></a>
   <a href="https://webpack.github.io/"><img src="./repo/img/webpack-padded-90.png" /></a>
   <a href="https://github.com/ReactTraining/react-router"><img src="./repo/img/react-router-padded-90.png" /></a>
