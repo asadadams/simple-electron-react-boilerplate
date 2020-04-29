@@ -1,11 +1,11 @@
+<img src="./logo.png" />
+
+# Simple Electron + React Boilerplate
+
 <p>
   Simple Electron and React Boilerplate uses <a href="https://electron.atom.io/">Electron</a>, <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/reactjs/react-router">React Router</a>, <a href="https://webpack.github.io/docs/">Webpack</a>,<a href="https://github.com/enzymejs/enzyme">Enzyme</a>,<a href="https://jestjs.io/">Jest</a> and <a href='https://github.com/yan-foto/electron-reload'>Electron reload</a> for fast desktop application development
 </p>
 
-# Simple Electron + React Boilerplate
-<img src="./logo.png" />
-<br/>
-<hr />
 <div>
   <a href="https://facebook.github.io/react/"><img src="./repo/img/react-padded-90.png" /></a>
   <a href="https://webpack.github.io/"><img src="./repo/img/webpack-padded-90.png" /></a>
