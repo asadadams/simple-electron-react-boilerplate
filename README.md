@@ -4,7 +4,8 @@
 
 # Simple Electron + React Boilerplate
 <img src="./logo.png" />
-<br/><br/>
+<br/>
+<hr />
 <div>
   <a href="https://facebook.github.io/react/"><img src="./repo/img/react-padded-90.png" /></a>
   <a href="https://webpack.github.io/"><img src="./repo/img/webpack-padded-90.png" /></a>
@@ -17,6 +18,7 @@
 
 <div align="center">
 I made this boilerplate because i found it very diffcult to setup an Electron project with React when i first wanted to this. I also didn't like the way most boilerplates were set up. This is a really simple and minimal Electron + React boilerplate to get you started with a project. This project use a Webpack as a module bundler to React ES2015 to vanilla JS. HAPPY CODING!!!
+</div>
 
 ## Overview
 All components are located in src folder.
